@@ -1,0 +1,6 @@
+name: Tutorial(neu)
+version: ${project.version}
+main: de.monaco07.tutorialneu.Main
+api-version: 1.16
+authors: [ monaco07 ]
+description: Moin meista
